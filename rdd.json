@@ -1,0 +1,7 @@
+{
+  "rdd": {
+    "take": {
+      "collect": [{"brand": ["one", "two"]}]
+      }
+    }
+  }
